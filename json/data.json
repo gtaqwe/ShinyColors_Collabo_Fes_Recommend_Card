@@ -1,0 +1,716 @@
+{
+	"P": [
+		{
+			"File_Name": "mamimi_p_ssr2",
+			"Card_Name": "【摩的・アンチテーゼ】田中摩美々",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "2"
+				},
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "흥미 1.5배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "kaho_p_ssr5",
+			"Card_Name": "【日刊ウィズ・ユー！】小宮果穂",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.25배",
+					"Turn": "5"
+				},
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "흥미 1.25배",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "chiyoko_p_ssr5",
+			"Card_Name": "【プリティ・スイート】園田智代子 ",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 2배",
+					"Turn": "5"
+				},
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "흥미 2배",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "chiyoko_p_ssr7",
+			"Card_Name": "【トコハレ☀コメディ】園田 智代子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 2배",
+					"Turn": "3"
+				},
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "흥미 2배",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "rinze_p_ssr8",
+			"Card_Name": "【晩秋ろまんす】杜野凛世",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "ALL",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.3배",
+					"Turn": "2"
+				},
+				{
+					"Appeal_Attr": "ALL",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "흥미 1.3배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "sakuya_p_sr3",
+			"Card_Name": "【雪染めロマンティカ】白瀬咲耶",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 30% DOWN",
+					"Turn": "3"
+				},
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "영향력 10% DOWN",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "kiriko_p_sr1",
+			"Card_Name": " 【包・帯・組・曲】幽谷霧子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 30% DOWN",
+					"Turn": "4"
+				},
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "영향력 10% DOWN",
+					"Turn": "4"
+				}
+			]
+		},
+		{
+			"File_Name": "juri_p_ssr3",
+			"Card_Name": "【曲がり角のランウェイ】西城樹里",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Vi 80% UP",
+					"Turn": "2"
+				},
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "전 유닛 Vo 50% UP",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "natsuha_p_ssr1",
+			"Card_Name": "【アルティメットマーメイド】有栖川夏葉",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Da 60% UP",
+					"Turn": "2"
+				},
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "전 유닛 Vi 45% UP",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "mei_p_ssr1",
+			"Card_Name": "【ちょっとあげる～】和泉愛依",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Vi 10% UP",
+					"Turn": "5"
+				},
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "전 유닛 Da 10% UP",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "tenka_p_ssr2",
+			"Card_Name": "【好きなものはなんですか？】大崎甜花",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 멘탈 10% 회복",
+					"Turn": ""
+				},
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "전 유닛 멘탈 10% 회복",
+					"Turn": ""
+				}
+			]
+		},
+		{
+			"File_Name": "tenka_p_ssr4",
+			"Card_Name": "【四夜一夜物語】大崎甜花",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 릴랙스 5%",
+					"Turn": "5"
+				},
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "전 유닛 릴랙스 5%",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "kiriko_p_ssr1",
+			"Card_Name": "【霧・音・燦・燦】幽谷霧子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "리저렉션 30%",
+					"Turn": "3"
+				},
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "0",
+					"Skill": "리저렉션 20%",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "kiriko_p_ssr3",
+			"Card_Name": " 【菜・菜・輪・舞】幽谷霧子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "False",
+					"Training": "4",
+					"Skill": "리저렉션 51%",
+					"Turn": "5"
+				},
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "False",
+					"Training": "0",
+					"Skill": "리저렉션 51%",
+					"Turn": "3"
+				}
+			]
+		}
+	],
+	"S": [
+		{
+			"File_Name": "hiori_s_ssr2",
+			"Card_Name": "【風野署長の一日勤務回想録】風野灯織",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "hiori_s_ssr3",
+			"Card_Name": "【星合アステリズム】風野灯織",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.15배",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "meguru_s_ssr2",
+			"Card_Name": "【キャプテン★パンプキン】八宮めぐる",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "meguru_s_sr4",
+			"Card_Name": "【サンシャインシエスタ！】八宮めぐる",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.15배",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "kogane_s_ssr8",
+			"Card_Name": "【あけまして、大吉～！】月岡恋鐘",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "mamimi_s_ssr8",
+			"Card_Name": "【murmurmaid】田中摩美々",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.2배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "yuika_s_ssr1",
+			"Card_Name": "【等身大のレイニーデイ】三峰結華",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.33배",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "yuika_s_ssr2",
+			"Card_Name": "【ハロー、私の「いつも通り」】三峰結華",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.33배",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "yuika_s_ssr5",
+			"Card_Name": "【おはようと日向に手を振る】三峰結華",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.33배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "yuika_s_sr1",
+			"Card_Name": "【輪になって】三峰結華",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.1배",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "yuika_s_sr3",
+			"Card_Name": "【SIDE：Y】三峰結華",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.1배",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "natsuha_s_sr3",
+			"Card_Name": "【スタンド・バイ】有栖川夏葉",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "1"
+				}
+			]
+		},
+		{
+			"File_Name": "chiyoko_s_ssr6",
+			"Card_Name": "【code：SH☆☆TING star!】園田智代子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.1배",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "juri_s_ssr5",
+			"Card_Name": "【モーニング・グロウリー？】西城樹里",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 2배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "juri_s_ssr8",
+			"Card_Name": "【はずむ息、夜を縫って】西城樹里",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.3배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "rinze_s_ssr6",
+			"Card_Name": "【祝唄-hogiuta-】杜野凛世",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.25배",
+					"Turn": "2"
+				},
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.25배",
+					"Turn": "2"
+				},
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.25배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "rinze_s_ssr9",
+			"Card_Name": "【珈琲の牛乳いれたん】杜野凛世",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "asahi_s_ssr5",
+			"Card_Name": "【秋の実りの配達係】芹沢あさひ",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "흥미 1.5배",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "mano_s_sr3",
+			"Card_Name": "【by to illuminate】櫻木真乃",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 20% DOWN",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "hiori_s_sr3",
+			"Card_Name": "【魔法の階段を上って……】風野灯織",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 20% DOWN",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "hiori_s_sr5",
+			"Card_Name": "【クローズ・トゥ・ユー】風野灯織",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 10% DOWN",
+					"Turn": "1"
+				}
+			]
+		},
+		{
+			"File_Name": "sakuya_s_sr2",
+			"Card_Name": "【マジカル＊スカイレース】白瀬咲耶",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 10% DOWN",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "sakuya_s_sr4",
+			"Card_Name": "【当日じゃない日】白瀬咲耶",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 10% DOWN",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "kiriko_s_sr1",
+			"Card_Name": "【綿毛ノ想】幽谷霧子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "-",
+					"Chain": "False",
+					"Training": "4",
+					"Skill": "영향력 30% DOWN",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "madoka_s_sr2",
+			"Card_Name": "【Feb.】樋口円香",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "영향력 10% DOWN",
+					"Turn": "3"
+				}
+			]
+		},
+		{
+			"File_Name": "mei_s_sr1",
+			"Card_Name": "【和泉流・書道心得】和泉愛依",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vo",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Vo 5% UP",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "mei_s_sr3",
+			"Card_Name": "【イケてた！？】和泉愛依",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Da 5% UP",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "fuyuko_s_sr1",
+			"Card_Name": "【(ノージャンル)グラヴィティ】黛冬優子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Vi 5% UP",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "asahi_s_sr2",
+			"Card_Name": "【花火の夜に……】芹沢あさひ",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 Da 5% UP",
+					"Turn": "5"
+				}
+			]
+		},
+		{
+			"File_Name": "tenka_s_ssr5",
+			"Card_Name": "【見果てぬ先のアヴァロン】大崎甜花",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Vi",
+					"Chain": "True",
+					"Training": "4",
+					"Skill": "전 유닛 멘탈 7% 회복",
+					"Turn": ""
+				}
+			]
+		},
+		{
+			"File_Name": "kiriko_s_ssr5",
+			"Card_Name": "【数・数・娘・娘】幽谷霧子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "False",
+					"Training": "4",
+					"Skill": "리저렉션 30%",
+					"Turn": "2"
+				}
+			]
+		},
+		{
+			"File_Name": "kiriko_s_ssr7",
+			"Card_Name": "【奏・奏・綺・羅】幽谷霧子",
+			"Card_Skill": [
+				{
+					"Appeal_Attr": "Da",
+					"Chain": "False",
+					"Training": "4",
+					"Skill": "리저렉션 50%",
+					"Turn": "1"
+				}
+			]
+		}
+	]
+}

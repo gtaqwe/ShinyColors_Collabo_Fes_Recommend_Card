@@ -1,0 +1,103 @@
+div {
+  margin: 10px 0px;
+}
+
+table {
+  text-align: center;
+  /* border-collapse: collapse; */
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2px solid #000000;
+}
+
+th,
+td {
+  white-space: nowrap;
+  padding: 5px;
+  border: 1px solid #9c9c9c;
+  cursor: default;
+}
+
+th {
+  border-right: 1px solid #9c9c9c;
+  border-left: 1px solid #9c9c9c;
+}
+
+footer {
+  text-align: center;
+  font-size: 10px;
+}
+
+
+.td-bottom {
+  border-bottom: 2px solid #000000;
+}
+
+.th-right,
+.td-right {
+  border-right: 2px solid #000000;
+}
+
+.th-header {
+  border-bottom: 2px solid #000000;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+
+.th-header {
+  background-color: #fff;
+}
+
+.vo-cell {
+  background-color: #FFB6C1;
+}
+
+.da-cell {
+  background-color: #AFEEEE;
+}
+
+.v-cell {
+  background-color: #FFFACD;
+}
+
+.Pbutton,
+.Sbutton,
+.ALLbutton {
+  border: none;
+  color: white;
+  width: 130px;
+  height: 50px;
+  font-weight: bold;
+  padding: 15px 32px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Pbutton {
+  background-color: #ff62a6;
+}
+
+.Pbutton:hover {
+  background-color: #ff74b6;
+}
+
+.Sbutton {
+  background-color: #4ca0f2;
+}
+
+.Sbutton:hover {
+  background-color: #5cb4fe;
+}
+
+.ALLbutton {
+  background: linear-gradient(to bottom right, #ff62a6 50%, #4ca0f2 50%);
+}
+
+.ALLbutton:hover {
+  background: linear-gradient(to bottom right, #ff74b6 50%, #5cb4fe 50%);
+}
